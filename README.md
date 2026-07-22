@@ -32,6 +32,7 @@ I build backend, cloud-connected, and security-aware systems with a focus on rel
 | AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
 | Google Cybersecurity Certificate | Google | 2025 |
 | Java Certificate | HackerRank | 2024 |
+| Blue Team Level 1 | Centri | 2026 |
 
 ## Technical toolkit
 
